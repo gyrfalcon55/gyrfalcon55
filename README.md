@@ -10,16 +10,6 @@ Learning, Deeplearning and Statistics**
 - 👨‍💻 I have some good knowledge in Python and its libraries like Pandas,Numpy. And also know some other programming languages like JAVA and C.
 
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="1200" height="300">
-<p>
-  <h3>
-    
-  -> Studying Computer Science with Data Science specialization. 
-  <br>
-  -> I'm interested in exploring Data science, AI/ML. 
-  <br>
-  -> I have some good knowledge in Python and its libraries like Pandas,Numpy. And also know some other programming languages like JAVA and C.
-  </h3>
-</p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
