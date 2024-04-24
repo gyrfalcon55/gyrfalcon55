@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Data Science tools and important topics of Machine
 Learning, Deeplearning and Statistics**
-- 📫 Reach me **sjunadi7890@gmail.com**
+- 📫 Reach me **sjunaid7890@gmail.com**
 - 📔📖 Studying Computer Science with Data Science specialization.
 - 🤩 I'm interested in exploring Data science, AI/ML.
 - 👨‍💻 I have some good knowledge in Python and its libraries like Pandas,Numpy. And also know some other programming languages like JAVA and C.
