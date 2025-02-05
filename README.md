@@ -6,8 +6,8 @@
 Learning, Deeplearning and Statistics**
 - 📫 Reach me **sjunaid7890@gmail.com**
 - 📔📖 Studying Computer Science with Data Science specialization.
-- 🤩 I'm interested in exploring Data science, AI/ML.
-- 👨‍💻 I have some good knowledge in Python and its libraries like Pandas,Numpy. And also know some other programming languages like JAVA and C.
+- 🤩 I'm interested in exploring Data science, AI/ML, Web Devlopment.
+- 👨‍💻 I have some good knowledge in Python and its libraries like Pandas, Numpy, Django. And also know some other programming languages like JAVA and C.
 
 <img src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif" width="1200" height="300">
 <h3 align="left">Languages and Tools:</h3>
@@ -56,12 +56,7 @@ Learning, Deeplearning and Statistics**
   </a>
 </p>
 
-<img
-  align="right"
-  src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"
-  width="500"
-  style="float: right"
-/>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
